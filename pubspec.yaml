@@ -1,0 +1,16 @@
+name: visitas_mvvm_aula
+description: Aplicativo didático de visitas técnicas com MVVM.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: '>=3.19.0'
+dependencies:
+  http: 1.2.2
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
